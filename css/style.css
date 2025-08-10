@@ -37,3 +37,14 @@ h1 {
   color: rgb(89, 86, 211);
   background-color: rgb(206, 193, 218);
 }
+
+#gifContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(128px, 1fr));
+  grid-gap: 10px;
+}
+
+#gifContainer>img {
+  width: 100%;
+  border-radius: var(--rounded-lg);
+}
