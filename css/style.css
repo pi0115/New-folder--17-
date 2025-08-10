@@ -1,6 +1,14 @@
 body {
-  background-color: rgb(203, 181, 223);
+  max-width: 768px;
+  margin-inline: auto;
+  margin-block: 0px;
+  padding-inline: 16px;
+  padding-top: 64px;
+  padding-bottom: 128px;
+  background-color: blueviolet;
 }
+
+
 
 
 h1 {
@@ -8,7 +16,7 @@ h1 {
   font-size: 50px;
   left: 160px;
   top: 5px;
-  color: rgb(98, 58, 173);
+  color: rgb(167, 150, 199);
 
 }
 
