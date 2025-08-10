@@ -1,0 +1,35 @@
+h1 {
+  position: absolute;
+  font-size: 50px;
+  left: 160px;
+  top: 5px;
+  color: rgb(98, 58, 173);
+
+}
+
+
+
+.nav-bar {
+  word-spacing: 50px;
+  position: absolute;
+  right: 240px;
+  top: 70px;
+  font-size: 30px;
+  color: rgb(107, 77, 219);
+
+}
+
+.container-text {
+  position: absolute;
+  bottom: 700px;
+  right: 850px;
+  border-radius: 50px;
+  border: 50px;
+  font-size: 20px;
+  color: blueviolet;
+}
+
+.container-btn {
+  color: blueviolet;
+  border-color: rgb(57, 6, 105);
+}
