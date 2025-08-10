@@ -33,3 +33,12 @@ h1 {
   color: blueviolet;
   border-color: rgb(57, 6, 105);
 }
+
+.container-input {
+  position: absolute;
+  bottom: 775px;
+  right: 850px;
+  font-size: 20px;
+
+
+}
