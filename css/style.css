@@ -1,3 +1,8 @@
+body {
+  background-color: rgb(203, 181, 223);
+}
+
+
 h1 {
   position: absolute;
   font-size: 50px;
@@ -19,20 +24,6 @@ h1 {
 
 }
 
-.container-text {
-  position: absolute;
-  bottom: 700px;
-  right: 850px;
-  border-radius: 50px;
-  border: 50px;
-  font-size: 20px;
-  color: blueviolet;
-}
-
-.container-btn {
-  color: blueviolet;
-  border-color: rgb(57, 6, 105);
-}
 
 .container-input {
   position: absolute;
