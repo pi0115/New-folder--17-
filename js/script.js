@@ -26,9 +26,9 @@ function displayGIFs(gifs) {
 
 function searchGIFs() {
   const searchQuery = document.getElementById("searchInput").value.trim();
-  if (!searchQuery) return; // Exit if search query is empty
+  if (!searchQuery) return;
 
-  offset = 0; // Reset offset for new search
+  offset = 0;
   isLoading = true;
   const gifContainer = document.getElementById("gifContainer");
   gifContainer.innerHTML = ""; // 
